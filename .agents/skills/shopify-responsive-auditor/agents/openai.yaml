@@ -1,0 +1,3 @@
+interface:
+  display_name: "Shopify Responsive Auditor"
+  short_description: "Audit Shopify responsiveness from one desktop URL"
